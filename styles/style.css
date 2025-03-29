@@ -23,6 +23,7 @@ html {
 }
 
 body {
+  display: inline-block;
   width: 600px;
   margin: 0 auto;
   background-color: #FFFAFA;
